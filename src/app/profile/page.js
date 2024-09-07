@@ -9,6 +9,7 @@ const userProfile = () => {
   const countries = [
     { flag: "/public/nigeria.png", name: "United States" },
     { flag: "/public/nigeria.png", name: "Canada" },
+    { flag: "/public/Kenya.png", name: "Kenya" },
   ];
   return (
     <>
